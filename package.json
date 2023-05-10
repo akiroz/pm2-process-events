@@ -4,7 +4,7 @@
   "description": "🛎 Pm2 process events directly from its unix socket",
   "author": "Simone Corsi <simonecorsi.dev@gmail.com>",
   "license": "MIT",
-  "types": "./index.d.ts",
+  "types": "./src/index.d.cts",
   "exports": {
     "import": "./src/index.mjs",
     "require": "./src/index.cjs"
